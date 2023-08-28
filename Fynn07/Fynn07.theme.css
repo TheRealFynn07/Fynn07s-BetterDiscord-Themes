@@ -1,14 +1,17 @@
 /**
  * @name Fynn07
  * @author fynn07
- * @version 1.1.0
+ * @version 1.2.0
  * @description simple theme that looks clean with Fynn's Background
  * @website https://fynn07.bio.link
  * @invite GSENAkcHvm
  */
 
-@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
 @import url('https://raw.githubusercontent.com/TheRealFynn07/Fynn07s-Discord-Theme/main/Fynn07/main.css');
+@import url('https://raw.githubusercontent.com/TheRealFynn07/Fynn07s-Discord-Theme/main/Fynn07/ServerColumns.css');
+@import url('https://raw.githubusercontent.com/TheRealFynn07/Fynn07s-Discord-Theme/main/Fynn07/SettingsModal.css');
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+
 
 :root{
     --background: url('https://i.lcpdfrusercontent.com/uploads/monthly_2022_07/1013726463_Fynn07sYouTubeBanner.png.4dd9d9653e0285f2ac9f387005ffd111.png');
@@ -29,3 +32,5 @@
     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 }
  
+credits goes to Ruben7173 for the transparency!
+credits goes to DevilBro for the ServerColumns and SettingsModal!
