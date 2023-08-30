@@ -802,12 +802,12 @@
     }
     #app-mount .typeWindows-2-g3UY:after {
         content: "Fynn07 v1.2.0";
-        color: rgb(0,255,0,1.0);
-        font-weight: 500;
+        color: rgb(0,255,0,0.69);
+        font-weight: 1000;
 
         position: absolute;
-        top: 16px;
-        left: 45.2%;
+        top: 10px;
+        left: 45%;
     }
 
     #app-mount .wordmark-2u86JB {top: 3.3px;}
