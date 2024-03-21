@@ -1,5 +1,5 @@
 # MY DISCORD THEME!!
-This is my Discord Theme that I always use in Discord since i have Discord.
+To use this Theme you need to use [Vencord](https://vencord.dev/), [BetterDiscord](https://betterdiscord.app/) or any other Discord Client that supports Themes!
 
 # PREVIEW
 THIS IS THE FIRST VERSION FROM MY THEME. IT MAY BE CHANGED A BIT! (v1.0.0) _it changed alot lmfao_
